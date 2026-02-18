@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:simp_life_tasks/screen_thirty/screen_thirty.dart';
+import 'package:simp_life_tasks/screen_thirty_five/screen_thirty_five.dart';
+import 'package:simp_life_tasks/screen_thirty_four/screen_thirty_four.dart';
 import 'package:simp_life_tasks/screen_thirty_one/screen_thirty_one.dart';
 import 'package:simp_life_tasks/screen_thirty_three/screen_thirty_three.dart';
 import 'package:simp_life_tasks/screen_thirty_two/screen_thirty_two.dart';
@@ -21,7 +23,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(useMaterial3: false
       ),
       debugShowCheckedModeBanner: false,
-      home: ScreenThirtyThree(),
+      home: ScreenThirtyFive(),
     );
   }
 }
