@@ -18,7 +18,7 @@ class _ScreenFiftyState extends State<ScreenFifty> {
         backgroundColor: const Color(0xFF222222),
         elevation: 3,
         title: const Text(
-          "Show Button type",
+          "Choose a country",
           style: TextStyle(
               color: Colors.amber, fontSize: 24, fontWeight: FontWeight.bold),
         ),
