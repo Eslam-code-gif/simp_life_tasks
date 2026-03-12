@@ -17,7 +17,7 @@ class _ScreenFortyEightState extends State<ScreenFortyEight> {
         backgroundColor: const Color(0xFF222222),
         elevation: 3,
         title: const Text(
-          "Show Button type",
+          "change text",
           style: TextStyle(
               color: Colors.amber, fontSize: 24, fontWeight: FontWeight.bold),
         ),

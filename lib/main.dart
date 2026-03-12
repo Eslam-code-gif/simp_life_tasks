@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:simp_life_tasks/screen_fifty/screen_fifty.dart';
 import 'package:simp_life_tasks/screen_forty/screen_forty.dart';
 import 'package:simp_life_tasks/screen_forty_eight/screen_forty_eight.dart';
 import 'package:simp_life_tasks/screen_forty_five/screen_forty_five.dart';
@@ -37,7 +38,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(useMaterial3: false
       ),
       debugShowCheckedModeBanner: false,
-      home: ScreenFortyNine(),
+      home: ScreenFifty(),
     );
   }
 }
